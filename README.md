@@ -115,4 +115,4 @@ The imdb_data.csv file contains raw IMDb data with the following columns
 
 5.**Which actor has acted in the most number of movies? Deep dive into the movies, genres and profits corresponding to this actor.**
 
-6.**Top 3 directors prefer which actors the most**
+6.**Top 3 directors prefer which actors the most.**
